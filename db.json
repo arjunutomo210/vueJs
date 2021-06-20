@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "title": "Yang Fana Adalah Waktu",
+      "author": "Sapardi Djoko Damono",
+      "id": 5
+    },
+    {
+      "id": 6,
+      "title": "Kesatria, Putri & Bintang Jatuh",
+      "author": "Dee Lestari a"
+    },
+    {
+      "title": "Merayakan Kehilangan",
+      "author": "Brian Khrisna",
+      "id": 8
+    },
+    {
+      "id": 9,
+      "title": "Kamu Terlalu Banyak Bercanda",
+      "author": "Marchella FPI"
+    },
+    {
+      "id": 10,
+      "title": "meskipun ku ingin",
+      "author": "endang"
+    },
+    {
+      "title": "Kembali Kepada Jalan Tuhan",
+      "author": "Khairil Anwar",
+      "id": 11
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
